@@ -1,10 +1,7 @@
 name = input("Please enter your name: ")
-
 print("Dear " + name)
 
-
 list = ["small", "medium", "big"]
-
 mistake_level = input("Enter my mistake level: ")
 
 if mistake_level == list[0] :
