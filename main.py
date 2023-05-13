@@ -6,7 +6,7 @@ elif my_mistake == "medium" :
     return situp()
 
 elif my_mistake == "big" :
-    return "beat"
+    return beat()
 
 else forgiven = true :
    
